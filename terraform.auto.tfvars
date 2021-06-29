@@ -30,3 +30,4 @@ vm_count = 1
 root_password = "cisco123"	
 vsphere_user = "administrator@vsphere.local"	
 vsphere_password = "Cisco123!"
+vm_memory = 4096
